@@ -1,0 +1,11 @@
+C:\Users\User\Source\Repos\csci-2210-proj4-nagyje\SimulationLogic\bin\Debug\net6.0\SimulationLogic.deps.json
+C:\Users\User\Source\Repos\csci-2210-proj4-nagyje\SimulationLogic\bin\Debug\net6.0\SimulationLogic.dll
+C:\Users\User\Source\Repos\csci-2210-proj4-nagyje\SimulationLogic\bin\Debug\net6.0\SimulationLogic.pdb
+C:\Users\User\Source\Repos\csci-2210-proj4-nagyje\SimulationLogic\obj\Debug\net6.0\SimulationLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Source\Repos\csci-2210-proj4-nagyje\SimulationLogic\obj\Debug\net6.0\SimulationLogic.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\csci-2210-proj4-nagyje\SimulationLogic\obj\Debug\net6.0\SimulationLogic.AssemblyInfo.cs
+C:\Users\User\Source\Repos\csci-2210-proj4-nagyje\SimulationLogic\obj\Debug\net6.0\SimulationLogic.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\csci-2210-proj4-nagyje\SimulationLogic\obj\Debug\net6.0\SimulationLogic.dll
+C:\Users\User\Source\Repos\csci-2210-proj4-nagyje\SimulationLogic\obj\Debug\net6.0\refint\SimulationLogic.dll
+C:\Users\User\Source\Repos\csci-2210-proj4-nagyje\SimulationLogic\obj\Debug\net6.0\SimulationLogic.pdb
+C:\Users\User\Source\Repos\csci-2210-proj4-nagyje\SimulationLogic\obj\Debug\net6.0\ref\SimulationLogic.dll
